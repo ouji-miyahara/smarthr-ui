@@ -51,6 +51,7 @@ const icons: Array<Props['name']> = [
   'fa-filter',
   'fa-font',
   'fa-grip-vertical',
+  'fa-history',
   'fa-lock',
   'fa-lock-open',
   'fa-minus',
